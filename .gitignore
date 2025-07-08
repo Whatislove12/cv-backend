@@ -35,5 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-### Ignore sensitive email config ###
-src/main/resources/application.properties
